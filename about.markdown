@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Onyero Walter Ofuzim
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![Profile Picture](images/profile.jpg)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/onyero-walter-ofuzim-189301107/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:onyero.ofuzim@ucalgary.ca)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/Waltberry)
 
+## Professional Summary
 
-[jekyll-organization]: https://github.com/jekyll
+Innovative and results-driven engineer with a robust electrical, network, and software engineering background.
