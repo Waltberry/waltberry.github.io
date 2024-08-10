@@ -22,11 +22,11 @@ title: "Onyero Walter Ofuzim"
 logo: "/images/OO.png"
 email: "onyero.ofuzim@ucalgary.ca"
 description: "Electrical and software engineering."
-show_downloads: true
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Waltberry.github.io/onyero-portfolio"
+# show_downloads: true
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Waltberry.github.io/walter-portfolio"
 # twitter_username: ""
-github_username: "Waltberry"
+# github_username: "Waltberry"
 
 # Build settings
 theme: jekyll-theme-minimal
