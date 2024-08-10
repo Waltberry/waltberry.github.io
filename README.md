@@ -1,7 +1,7 @@
 # Onyero Walter Ofuzim
 
 
-## Education
+<u>## Education</u>
 
 - **Master of Science - MS, Electrical and Software Engineering**  
   University of Calgary, January 2024 - 2025  
@@ -11,7 +11,7 @@
   University of Benin, October 2015 - November 2021  
   Focus: Control Systems, Software and Embedded Systems 
 
-## Experience
+<u>## Experience</u>
 
 ### Graduate Research/Teaching Assistant
 **Schulich School of Engineering - Electrical & Software**  
