@@ -1,7 +1,6 @@
 # Onyero Walter Ofuzim
 
-
-<u>## Education</u>
+<u><strong>## Education</strong></u>
 
 - **Master of Science - MS, Electrical and Software Engineering**  
   University of Calgary, January 2024 - 2025  
@@ -11,46 +10,45 @@
   University of Benin, October 2015 - November 2021  
   Focus: Control Systems, Software and Embedded Systems 
 
-<u>## Experience</u>
+<u><strong>## Experience</strong></u>
 
 ### Graduate Research/Teaching Assistant
 **Schulich School of Engineering - Electrical & Software**  
 Calgary, Alberta, Canada  
-January 2024 - Present 
+January 2024 - Present  
 - Conducting research within the Digital Innovation in Clean Energy (DICE) program, focusing on machine learning and System Identification to monitor the physics of Grid Flow Batteries and Hydrogen Storage Cells.
 
 ### Lead Technology Specialist (Analysis) / Network Support Analyst
 **MTN**  
 Falomo Ikoyi (HQ), Lagos, Nigeria  
-March 2023 – November 2023
+March 2023 – November 2023  
 - Led a team in implementing advanced data analysis techniques, resulting in a 15% reduction in network downtime.
 
 ### Network Support Engineering Intern
 **MTN**  
 Falomo Ikoyi (HQ), Lagos, Nigeria  
-August 2023 - February 2023
+August 2023 - February 2023  
 - Provided critical support in network stability and troubleshooting, contributing to improved service reliability.
 
 ### Graduate Research Assistant									
 **University of Benin – Department of Electrical/Electronic Engineering**  
 Benin, Edo, Nigeria  
-January 2020 – August 2021
+January 2020 – August 2021  
 - Spearheaded pioneering research in embedded systems and IoT technologies, notably contributing to developing efficient battery management solutions.
 
 ### Network Engineering Intern
 **MTN**  
 Ojota, Lagos, Nigeria  
-November 2019 - May 2020
+November 2019 - May 2020  
 - Played a key role in network integrity maintenance and SNMP monitoring.
 
-### Automation/ Electrical Engineer Intern
+### Automation/Electrical Engineer Intern
 **Nigerian Bottling Company PLC. (Coca-Cola HBC)**  
 Ikeja, Lagos  
 August 2019 - November 2019  
 - Implemented proactive maintenance strategies, reducing machinery downtime by 15%.
 
-
-## Honors & Awards
+<u><strong>## Honors & Awards</strong></u>
 
 - **Department of Electrical and Software Engineering Funding**  
   - Issued by the Department of Electrical and Software Engineering, University of Calgary  
@@ -76,7 +74,7 @@ August 2019 - November 2019
   - Issued by Delta State Bursary and Scholarship (DSBSB) / Delta State Government  
   - January 2016
 
-## Skills
+<u><strong>## Skills</strong></u>
 
 ### Technical Skills
 
@@ -116,12 +114,12 @@ August 2019 - November 2019
 - **Collaboration:** Contributing to the Open Source Community
 - **Critical Thinking:** Critical Thinking, Self-Reflection
 
-## Publications
+<u><strong>## Publications</strong></u>
 
 - Kinematic Analysis of Omnidirectional Mecanum Wheeled Robot
 - Design and Construction of Battery Monitoring & Control Device using the Internet of Things (IoT)
 
-## Spoken Languages
+<u><strong>## Spoken Languages</strong></u>
 
 - English (Native or Bilingual)
 - Igbo (Native or Bilingual)
