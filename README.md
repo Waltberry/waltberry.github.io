@@ -1,6 +1,6 @@
 # Onyero Walter Ofuzim
 
-<u><strong>## Education</strong></u>
+<u><strong>Education</strong></u>
 
 - **Master of Science - MS, Electrical and Software Engineering**  
   University of Calgary, January 2024 - 2025  
@@ -10,7 +10,7 @@
   University of Benin, October 2015 - November 2021  
   Focus: Control Systems, Software and Embedded Systems 
 
-<u><strong>## Experience</strong></u>
+<u><strong>Experience</strong></u>
 
 ### Graduate Research/Teaching Assistant
 **Schulich School of Engineering - Electrical & Software**  
@@ -48,7 +48,7 @@ Ikeja, Lagos
 August 2019 - November 2019  
 - Implemented proactive maintenance strategies, reducing machinery downtime by 15%.
 
-<u><strong>## Honors & Awards</strong></u>
+<u><strong>Honors & Awards</strong></u>
 
 - **Department of Electrical and Software Engineering Funding**  
   - Issued by the Department of Electrical and Software Engineering, University of Calgary  
@@ -74,7 +74,7 @@ August 2019 - November 2019
   - Issued by Delta State Bursary and Scholarship (DSBSB) / Delta State Government  
   - January 2016
 
-<u><strong>## Skills</strong></u>
+<u><strong>Skills</strong></u>
 
 ### Technical Skills
 
@@ -114,12 +114,12 @@ August 2019 - November 2019
 - **Collaboration:** Contributing to the Open Source Community
 - **Critical Thinking:** Critical Thinking, Self-Reflection
 
-<u><strong>## Publications</strong></u>
+<u><strong>Publications</strong></u>
 
 - Kinematic Analysis of Omnidirectional Mecanum Wheeled Robot
 - Design and Construction of Battery Monitoring & Control Device using the Internet of Things (IoT)
 
-<u><strong>## Spoken Languages</strong></u>
+<u><strong>Spoken Languages</strong></u>
 
 - English (Native or Bilingual)
 - Igbo (Native or Bilingual)
