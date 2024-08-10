@@ -116,39 +116,6 @@ August 2019 - November 2019
 - **Collaboration:** Contributing to the Open Source Community
 - **Critical Thinking:** Critical Thinking, Self-Reflection
 
-## Licenses & Certifications
-
-### Machine Learning
-**Stanford Online - Dec 2021**  
-
-### Modern Robotics: Mechanics, Planning, and Control Specialization
-**Course 1: Modern Robotics, Course 1: Foundations of Robot Motion**  
-**Northwestern University - Dec 2021**  
-
-### Self-Driving Cars Specialization
-**Course 1: Introduction to Self-Driving Cars**  
-**University of Toronto - Jan 2022**  
-
-### Robotics Specialization
-**Course 1: Robotics: Aerial Robotics**  
-**University of Pennsylvania - Oct 2022**  
-**Course 2: Robotics: Computational Motion Planning**  
-**University of Pennsylvania - Oct 2022**  
-**Course 3: Robotics: Aerial Robotics**  
-**University of Pennsylvania - Oct 2022**  
-**Course 4: Robotics: Computational Motion Planning**  
-**University of Pennsylvania - Oct 2022**  
-**Course 5: Robotics: Legged Mobility**  
-**University of Pennsylvania - Oct 2022**  
-**Course 6: Robotics: Perception**  
-**University of Pennsylvania - Mar 2023**  
-
-### Cooperation in Autonomous Vehicles
-**IEEE - Oct 2022** 
-
-### Developing and Validating Control Systems for Connected and Automated Vehicles
-**IEEE - Oct 2022**  
-
 ## Publications
 
 - Kinematic Analysis of Omnidirectional Mecanum Wheeled Robot

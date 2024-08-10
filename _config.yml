@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Onyero Walter Ofuzim's Portfolio"
+title: "Onyero Walter Ofuzim"
 logo: "/images/OO.png"
 email: "onyero.ofuzim@ucalgary.ca"
-description: "Innovative and results-driven engineer with a robust electrical, network, and software engineering background."
+description: "Electrical and software engineering."
 show_downloads: true
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://Waltberry.github.io/onyero-portfolio"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Waltberry.github.io/onyero-portfolio"
 # twitter_username: ""
-# github_username: "Waltberry"
+github_username: "Waltberry"
 
 # Build settings
 theme: jekyll-theme-minimal
