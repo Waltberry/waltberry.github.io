@@ -19,17 +19,19 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Onyero Walter Ofuzim's Portfolio"
+logo: "/images/OO.png"
 email: "onyero.ofuzim@ucalgary.ca"
 description: "Innovative and results-driven engineer with a robust electrical, network, and software engineering background."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Waltberry.github.io/onyero-portfolio"
-twitter_username: ""
-github_username: "Waltberry"
+show_downloads: true
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://Waltberry.github.io/onyero-portfolio"
+# twitter_username: ""
+# github_username: "Waltberry"
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minimal
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
